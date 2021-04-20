@@ -1,0 +1,99 @@
+body{
+    font-family: "Jockey One"; 
+    background-color: rgba(140,82,255);
+}
+
+img{
+    width: 100%;
+}
+
+.pays{
+    background: rgb(140,82,255);
+    background: linear-gradient(180deg, rgba(140,82,255,1) 0%, rgba(184,149,254,1) 47%, rgba(255,102,196,1) 100%);
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.cheesecake{
+    background: rgb(140,82,255);
+    background: linear-gradient(180deg, rgba(255,102,196,1) 0%, rgba(184,149,254,1) 47%, rgba(140,82,255,1) 100%);
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.brownies{
+    background: rgb(140,82,255);
+    background: linear-gradient(180deg, rgba(140,82,255,1) 0%, rgba(184,149,254,1) 47%, rgba(255,102,196,1) 100%);
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.slices{
+    background: rgb(140,82,255);
+    background: linear-gradient(180deg, rgba(255,102,196,1) 0%, rgba(184,149,254,1) 47%, rgba(140,82,255,1) 100%);
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.pays img{
+    width: 90%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.cheesecake img{
+    width: 90%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.brownies img{
+    width: 90%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.slices img{
+    width: 90%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.evento{
+    border-radius: 8px;
+    box-shadow: 0 0 10px 0 rgba(153, 153, 153, .3);
+    background-color: white;
+    position: relative;
+    padding-bottom: 15px;
+}
+
+h1{
+    font-size: 25px;
+}
+
+p{
+    font-size: 20px;
+    margin-bottom: auto;
+}
+
+h3{
+    padding-left: 25px;
+    font-size: 25px;
+}
+
+h4{
+    font-size: 25px;
+}
+
+.letras{
+    border-radius: 15px;
+}
+
+.footer{
+    border-top: 1px solid white;
+    padding-top: 15px;
+    text-align: center;
+    color: white;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
